@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdul+Saleem+A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java+Developer+%7C+IoT+%26+Embedded+Systems+%7C+AI+%26+ML+Enthusiast&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Abdul+Saleem+%F0%9F%91%8B;Complete+Java+Programmer+%E2%98%95;IoT+%26+Embedded+Systems+Builder+%F0%9F%94%8C;Currently+Mastering+DSA+%F0%9F%A7%A0;ESP32+%7C+AI+Agents+%7C+Edge+AI+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Abdul+Saleem+%F0%9F%91%8B;Java+Programmer+%E2%98%95;IoT+%26+Embedded+Systems+Builder+%F0%9F%94%8C;Currently+Learning+DSA+%F0%9F%A7%A0;" alt="Typing SVG" />
 </div>
 
 ---
